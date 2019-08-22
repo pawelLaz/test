@@ -1,0 +1,18 @@
+{
+  "status": true,
+  "items": 
+  [
+   {
+      "id": 943149,
+      "title_pl": "title_pl",
+      "title_gb": "title_gb",
+      "description_pl": "description_pl",
+      "description_gb": "description_gb",
+      "photo": "https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg",
+      "audio": "audio",
+      "points": 200,
+      "latitude": 54,
+      "longitude": 18
+   }
+  ]
+}
